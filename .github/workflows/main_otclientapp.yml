@@ -61,6 +61,7 @@ jobs:
         with:
           app-name: 'otclientapp'
           slot-name: 'Production'
-          package: './otadminui/dist/otadminui/browser'
+          package: .
 
           
+
